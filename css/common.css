@@ -70,6 +70,7 @@ body > p > a:hover {
 }
 
 /* task 1 styles */
+
 #categories {
 display: flex;
 align-items: flex-start;
@@ -108,7 +109,7 @@ font-weight: 600;
 .item ul li:not(:last-child) {
   margin-bottom: 8px;
 }
-  
+
 /* task 2 styles */
 
 .gallery {
@@ -140,6 +141,7 @@ font-weight: 600;
 }
 
 /* task 3 styles */
+
 #name-input{
   font-family: "Montserrat", sans-serif;
   font-weight: 400;
